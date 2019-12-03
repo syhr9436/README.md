@@ -6,3 +6,4 @@ int main(void)
 	printf("코드를 업로드합니다\n");
 	return 0;
 }
+//수정 기록
